@@ -16,20 +16,32 @@
         "description": "Umfrageplattform nur für pr0grammer",
         "link": "https://pr0p0ll.com/"
     }, {
-        "title": "pr0gramm App",
-        "description": "Android App fürs pr0",
-        "link": "https://app.pr0gramm.com/"
+        "title": "pr0verter",
+        "description": "Konvertiert dein Video in ein webm passend für die pr0 Uploadlimits.",
+        "link": "https://pr0verter.de/"
+    }, {
+        "title": "pr0texter",
+        "description": "Aus Text super einfach ein Bild für OC-Posts erstellen.",
+        "link": "http://pr0texter.com/pr0texter/index.html"
+    }, {
+        "title": "pr0stats",
+        "description": "pr0gramm.com Statistiken",
+        "link": "https://pr0stats.github.io/"
+    }, {
+        "title": "pr0kular",
+        "description": "Zeigt die besten 12 Posts in einer Zeitspanne",
+        "link": "http://pr0kular.herokuapp.com/"
+    }, {
+        "title": "PR0MINER",
+        "description": "pr0mium mit dem Browser schürfen",
+        "link": "http://miner.pr0gramm.com/"
     }, {
         "title": "pr0gramm Static",
         "description": "Static Snapshot, pr0 surfen ohne Javascript",
         "link": "http://pr0gramm.com/static/"
     }, {
-        "title": "Pr0Notify",
-        "description": "Desktop-Benachrichtigungen für Windows",
-        "link": "http://pr0gramm.com/new/1196394"
-    }, {
-        "title": "PR0MINER",
-        "description": "pr0mium mit dem Browser schürfen",
-        "link": "http://miner.pr0gramm.com/"
+        "title": "pr0gramm App",
+        "description": "Android App fürs pr0",
+        "link": "https://app.pr0gramm.com/"
     }
 ]
