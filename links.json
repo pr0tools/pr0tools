@@ -1,0 +1,35 @@
+[
+    {
+        "title": "rep0st",
+        "description": "Verhindert reposts durch eine Suche nach ähnlichen Bildern",
+        "link": "https://rep0st.rene8888.at/"
+    }, {
+        "title": "Userscripts",
+        "description": "Userscripts, Plugins, Userstyles für das pr0",
+        "link": "https://holzmaster.github.io/userscripts/"
+    }, {
+        "title": "pr0p0st",
+        "description": "Guter OC Text, ganz ohne Paint, Photoshop und Gimp",
+        "link": "http://retropr0.github.io/pr0p0st/html/index.html"
+    }, {
+        "title": "pr0p0ll",
+        "description": "Umfrageplattform nur für pr0grammer",
+        "link": "https://pr0p0ll.com/"
+    }, {
+        "title": "pr0gramm App",
+        "description": "Android App fürs pr0",
+        "link": "https://app.pr0gramm.com/"
+    }, {
+        "title": "pr0gramm Static",
+        "description": "Static Snapshot, pr0 surfen ohne Javascript",
+        "link": "http://pr0gramm.com/static/"
+    }, {
+        "title": "Pr0Notify",
+        "description": "Desktop-Benachrichtigungen für Windows",
+        "link": "http://pr0gramm.com/new/1196394"
+    }, {
+        "title": "PR0MINER",
+        "description": "pr0mium mit dem Browser schürfen",
+        "link": "http://miner.pr0gramm.com/"
+    }
+]
