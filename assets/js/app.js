@@ -1,3 +1,6 @@
+document.querySelectorAll('.colors input').forEach(function(input) {
+   input.style.backgroundColor = input.value;
+});
 
 var request = new XMLHttpRequest();
 request.open('GET', 'links.json', true);

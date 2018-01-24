@@ -2,6 +2,15 @@
     box-sizing: border-box;
 }
 
+::selection {
+  background: #00f;
+  color: #fff;
+}
+::-moz-selection {
+  background: #00f;
+  color: #fff;
+}
+
 :root {
     --main-color: #ee4d2e;
     --secondary-color: #75c0c7;
@@ -26,6 +35,14 @@ a,a:hover,a:visited,a:focus {
     text-decoration: none;
 }
 
+h2 {
+    font-size: 1.4rem;
+    border-bottom: 3px solid;
+    padding-bottom: 2px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
 .logo {
     max-height: 30px;
 }
@@ -38,20 +55,36 @@ a,a:hover,a:visited,a:focus {
 .item {
     display: flex;
     flex-direction: column;
-    padding: 0.6rem;
+    padding: 0.8rem;
     width: 32%;
 }
 
 .item .title {
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     border-bottom: 1px solid;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
+    line-height: 2;
 }
-.item aa {
-    background: var(--main-color);
-    color: var(--text-color);
-    margin-top: 10px;
-    padding: 6px 0;
-    text-align: center;
+
+.container ul:not(.colors) li {
+    list-style-type: square;
+    line-height: 1.5;
 }
+
+.container ul.colors {
+    margin: 0;
+    padding: 0;
+}
+
+.container ul.colors li {
+   list-style: none;
+}
+
+.container ul.colors li input {
+   border: 1px solid #fff;
+   border-radius: 3px;
+   text-align: center;
+   margin-bottom: 10px;
+}
+.container ul.colors li:first-child input { color:#fafafa; }
