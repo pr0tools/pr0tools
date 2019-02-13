@@ -32,10 +32,6 @@
         "description": "Zeigt die besten 12 Posts in einer Zeitspanne",
         "link": "http://pr0kular.herokuapp.com/"
     }, {
-        "title": "PR0MINER",
-        "description": "pr0mium mit dem Browser schürfen",
-        "link": "http://miner.pr0gramm.com/"
-    }, {
         "title": "pr0gramm Static",
         "description": "Static Snapshot, pr0 surfen ohne Javascript",
         "link": "http://pr0gramm.com/static/"
@@ -43,5 +39,5 @@
         "title": "pr0gramm App",
         "description": "Android App fürs pr0",
         "link": "https://app.pr0gramm.com/"
-    }
+    },
 ]
